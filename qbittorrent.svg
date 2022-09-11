@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="138.14159mm"
+   height="138.14157mm"
+   viewBox="0 0 138.14159 138.14157"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="qbittorrent.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="qbittorrent.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.7786055"
+     inkscape:cx="667.86068"
+     inkscape:cy="440.53118"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="1920"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.433842,-31.187306)">
+    <circle
+       style="fill:#81a1c1;fill-opacity:1;fill-rule:evenodd;stroke:#484537;stroke-width:4.9;stroke-miterlimit:5"
+       id="path238"
+       cx="99.504639"
+       cy="100.2581"
+       r="66.620796" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-size:26.5626px;line-height:0;font-family:Cantarell;-inkscape-font-specification:'Cantarell Thin';white-space:pre;inline-size:53.8803;display:inline;fill:#e3e2db;fill-opacity:1;fill-rule:evenodd;stroke:#e3e2db;stroke-width:4.9;stroke-miterlimit:5"
+       x="73.249878"
+       y="100.2581"
+       id="text3136"
+       transform="matrix(2.0447978,0,0,2.9363289,-80.964856,-173.77557)"><tspan
+         x="73.249878"
+         y="100.2581"
+         id="tspan3541">qb</tspan></text>
+  </g>
+</svg>
